@@ -1,0 +1,16 @@
+[
+  {
+    "nombreAnimal": "Benito",
+    "edad": "2 años",
+    "tipoAnimal": "perro",
+    "colorAnimal": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombreAnimal": "Nevado",
+    "edad": "3 años",
+    "tipoAnimal": "gato",
+    "colorAnimal": "Tabby",
+    "enfermedad": "Dermatitis"
+  }
+]
